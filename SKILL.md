@@ -1,6 +1,7 @@
 ---
 name: saber-invoice-reconciliation-skill
-description: Reconciles a consolidated Excel sheet against multiple mother files (usually PDFs, one per invoice) by comparing key fields such as HS Code, Product Name, Quantity, Unit Price, Country of Origin (COO), and Total Amount. The mother files are the source of truth; the Excel is what gets checked for errors. Use this skill whenever the user wants to cross-check, compare, verify, or reconcile invoices — trigger on phrases like: "compare invoices to excel", "check if invoices match", "verify invoice amounts", "does the PDF match the spreadsheet", or any mention of a mother folder, mother files, or files to be reconciled, or the name of the skill, or when the word "saber" is used in the context of comparing or reconciling documents.
+description: >
+    Reconciles a consolidated Excel sheet against multiple mother files (usually PDFs, one per invoice) by comparing key fields such as HS Code, Product Name, Quantity, Unit Price, Country of Origin (COO), and Total Amount. The mother files are the source of truth; the Excel is what gets checked for errors. Use this skill whenever the user wants to cross-check, compare, verify, or reconcile invoices — trigger on phrases like: "compare invoices to excel", "check if invoices match", "verify invoice amounts", "does the PDF match the spreadsheet", or any mention of a mother folder, mother files, or files to be reconciled, or the name of the skill, or when the word "saber" is used in the context of comparing or reconciling documents.
 ---
 
 
